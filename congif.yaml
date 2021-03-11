@@ -1,0 +1,10 @@
+save:
+  mongo:
+    host: 'mongodb://localhost:27017/'
+    collections:
+      - majorStock
+
+tickers:
+  SLB:
+    pass_code: 'slb'
+    api: 1
