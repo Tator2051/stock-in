@@ -1,4 +1,0 @@
-que haya un config.yaml con todos los tickers y que se importe al main,
-desde donde cada ticker será un objeto, UN objeto NO una clase.
-La clase es definida en el main y se utiliza como base para crear los
-objetos.
