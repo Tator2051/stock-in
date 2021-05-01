@@ -1,7 +1,11 @@
 import requests
 import json
 
-lista = ['TSNP','ES','NQ','YM','CL','RTY']
+"""
+Fuera de uso!!
+"""
+
+lista = ['AAPL']
 
 
 def get_close(ticker):
